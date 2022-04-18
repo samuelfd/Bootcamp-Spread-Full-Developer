@@ -1,0 +1,10 @@
+##### Comandos Essencias ao utilizar Git
+- Git init (Inicializa o git em uma determinada pasta)
+- Git add (adiciona arquivos modificados ao repositório local)
+- Git commit -m (responsavel por gravar as informações do arquivo e gerar um SHA1 para identificção unica daquele arquivo.)
+- Git push (responsável por "empurrar" o arquivo modificado para o repositório remoto)
+- Git pull (responsável por fazer o download das modificações contidas no repositório remoto)
+- Git fetch (responsável por atualizar o repositório local com todas as novas branchs)
+- Git log (ele mostra uma visão geral de todos os commits realiazados juntamento com o SHA1 e horário)
+- Git clone (responsável por clono um repositório remoto para o repositório local)
+![Certificado](https://user-images.githubusercontent.com/14841677/163872683-b44fdaec-78aa-45e2-b798-7b86954a4c70.jpg)
